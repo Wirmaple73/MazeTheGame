@@ -1,0 +1,7 @@
+C:\Users\user\documents\visual studio 2013\Projects\Maze\Maze\bin\Release\Maze.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\Maze\Maze\bin\Release\Maze.exe
+C:\Users\user\documents\visual studio 2013\Projects\Maze\Maze\bin\Release\Maze.pdb
+C:\Users\user\documents\visual studio 2013\Projects\Maze\Maze\obj\Release\Maze.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2013\Projects\Maze\Maze\obj\Release\Maze.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2013\Projects\Maze\Maze\obj\Release\Maze.exe
+C:\Users\user\documents\visual studio 2013\Projects\Maze\Maze\obj\Release\Maze.pdb
